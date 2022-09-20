@@ -1,0 +1,9 @@
+--- ans14.txt	2022-05-06 22:22:37.836093600 -0500
++++ output14.txt	2022-05-06 22:23:49.368465900 -0500
+@@ -0,0 +1,6 @@
++Level 3: {name:Jone.Rock,age:25,dept:CS}
++Level 3: {name:Asen.Huan,age:30,dept:EE}
++Level 2: {name:Bob.Carlos,age:20,dept:EE}
++Level 3: {name:Amaya.Jeremy,age:24,dept:ISSSO}
++Level 3: {name:Kim.Jose,age:34,dept:Edu}
++Level 2: {name:Alice.Sun,age:46,dept:CS}

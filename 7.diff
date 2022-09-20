@@ -1,0 +1,13 @@
+--- ans17.txt	2022-05-06 22:22:30.735987300 -0500
++++ output17.txt	2022-05-06 22:23:49.838869100 -0500
+@@ -1,9 +1 @@
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 5: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
+-Level 6: {name:Jone.Rock,age:25,dept:CS}
++Level 3: {name:Jone.Rock,age:25,dept:CS}
